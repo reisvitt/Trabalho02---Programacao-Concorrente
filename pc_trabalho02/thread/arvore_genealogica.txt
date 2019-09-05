@@ -1,0 +1,9 @@
+ARVORE GENEALOGICA
+
+Pai......= Bardock
+Filho1...= Goku (filho de Bardock)
+Filho2...= Raditz (filho de Bardock)
+Filho3...= Vegeta (Bardock não possui um terceiro filho, entao foi adaptado o Vegeta para completar o trabalho)
+Neto1....= Gohan (filho de Goku)
+Neto2....= Bulla ou Bra (filha de Vegeta)
+Bisneto1.= pan (filha de Goku)
